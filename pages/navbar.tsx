@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-light">
       <a className="navbar-brand" href="#">
         <img src="homepage/New.png" alt="" />
-        LuxeStayResort
+        LuxeStayResort-project
       </a>
       <button
         className="navbar-toggler"
